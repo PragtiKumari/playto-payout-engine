@@ -9,11 +9,6 @@ A backend system that simulates a real-world payout engine used in fintech platf
 Base URL:  
 https://playto-payout-engine-ubsb.onrender.com
 
-Key endpoints:
-- /api/v1/dashboard
-- /api/v1/payouts/history
-- /api/v1/ledger
-
 Note: First request may take a few seconds as the free instance spins up.
 
 ---
